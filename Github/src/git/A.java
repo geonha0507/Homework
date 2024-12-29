@@ -5,5 +5,6 @@ public class A {
 		System.out.println("hello");
 		System.out.println("second commit");
 		System.out.println("devB");
+		System.out.println("add method");
 	}
 }
